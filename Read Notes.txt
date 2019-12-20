@@ -1,0 +1,3 @@
+baguettebox.js    plugin has been used for light box
+
+Testing Git HUb
